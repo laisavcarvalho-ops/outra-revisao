@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e3e6fa;
+    padding: 20px;
+    color: #333;
+}
+
+h1, h2 {
+    color: #214366;
+    text-align: center;
+}
+
+.links-tabela {
+    margin: 0 auto 30px auto;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+.links-tabela th {
+    border: 1px solid #555;
+    padding: 15px;
+    background-color: #ddd;
+}
+
+.links-tabela a {
+    color: #418bebe0;
+    font-weight: bold;
+}
+
+.links-tabela a:hover {
+    color: #0a3e92;
+    text-decoration: underline;
+}
+
+.preferencias {
+    width: 600px;
+    margin:  auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    }
+
+ul {
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+    font-size:large;
+}
+.s{
+    width: 240px;
+}
